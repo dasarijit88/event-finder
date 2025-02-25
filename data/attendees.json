@@ -1,0 +1,281 @@
+[
+	{
+		"name": "Sigmund Aaland",
+		"attendedEventIDs": ["11", "2", "5"],
+		"department": "Digitalisering og design"
+	},
+	{
+		"name": "Mikkel Sæter",
+		"attendedEventIDs": ["5", "8", "24"],
+		"department": "HR"
+	},
+	{
+		"name": "Emma Halvorsen",
+		"attendedEventIDs": ["21", "6", "9"],
+		"department": "Digitalt salg og service"
+	},
+	{
+		"name": "Ole Hansen",
+		"attendedEventIDs": ["4", "7", "11"],
+		"department": "Digitalisering og design"
+	},
+	{
+		"name": "Nora Johansen",
+		"attendedEventIDs": ["1", "13", "8"],
+		"department": "HR"
+	},
+	{
+		"name": "Erik Lunde",
+		"attendedEventIDs": ["2", "6", "10"],
+		"department": "Digitalt salg og service"
+	},
+	{
+		"name": "Sara Lie",
+		"attendedEventIDs": ["5", "7", "13"],
+		"department": "Digitalisering og design"
+	},
+	{
+		"name": "Lars Viken",
+		"attendedEventIDs": ["9", "11", "16"],
+		"department": "HR"
+	},
+	{
+		"name": "Hanna Sørensen",
+		"attendedEventIDs": ["1", "4", "12"],
+		"department": "Digitalt salg og service"
+	},
+	{
+		"name": "Thomas Andresen",
+		"attendedEventIDs": ["3", "8", "11"],
+		"department": "Digitalisering og design"
+	},
+	{
+		"name": "Martine Karlsen",
+		"attendedEventIDs": ["2", "6", "9"],
+		"department": "HR"
+	},
+	{
+		"name": "Jens Moen",
+		"attendedEventIDs": ["5", "7", "10"],
+		"department": "Digitalt salg og service"
+	},
+	{
+		"name": "Kari Foss",
+		"attendedEventIDs": ["1", "8", "12"],
+		"department": "Digitalisering og design"
+	},
+	{
+		"name": "Eirik Skogen",
+		"attendedEventIDs": ["3", "7", "14"],
+		"department": "HR"
+	},
+	{
+		"name": "Sofie Lund",
+		"attendedEventIDs": ["4", "9", "11"],
+		"department": "Digitalt salg og service"
+	},
+	{
+		"name": "Henrik Bakken",
+		"attendedEventIDs": ["6", "10"],
+		"department": "Digitalisering og design"
+	},
+	{
+		"name": "John Smith",
+		"attendedEventIDs": ["1", "2", "3"],
+		"department": "HR"
+	},
+	{
+		"name": "Priya Patel",
+		"attendedEventIDs": ["4", "5", "6"],
+		"department": "Digitalt salg og service"
+	},
+	{
+		"name": "Maria Garcia",
+		"attendedEventIDs": ["7", "8", "9"],
+		"department": "Digitalisering og design"
+	},
+	{
+		"name": "James Johnson",
+		"attendedEventIDs": ["19", "11", "12"],
+		"department": "HR"
+	},
+	{
+		"name": "Chen Wei",
+		"attendedEventIDs": ["21", "22", "23"],
+		"department": "Digitalt salg og service"
+	},
+	{
+		"name": "Aisha Khan",
+		"attendedEventIDs": ["16", "1", "2"],
+		"department": "Digitalisering og design"
+	},
+	{
+		"name": "Carlos Martinez",
+		"attendedEventIDs": ["3", "4", "5"],
+		"department": "HR"
+	},
+	{
+		"name": "Emily Davis",
+		"attendedEventIDs": ["6", "7", "8"],
+		"department": "Digitalt salg og service"
+	},
+	{
+		"name": "David Brown",
+		"attendedEventIDs": ["9", "10", "11"],
+		"department": "Digitalisering og design"
+	},
+	{
+		"name": "Sofia Lopez",
+		"attendedEventIDs": ["12", "13", "14"],
+		"department": "HR"
+	},
+	{
+		"name": "Ravi Kumar",
+		"attendedEventIDs": ["15", "16", "1"],
+		"department": "Digitalt salg og service"
+	},
+	{
+		"name": "Linda Taylor",
+		"attendedEventIDs": ["2", "3", "4"],
+		"department": "Digitalisering og design"
+	},
+	{
+		"name": "Mohammed Ali",
+		"attendedEventIDs": ["5", "6", "7"],
+		"department": "HR"
+	},
+	{
+		"name": "Anna Wilson",
+		"attendedEventIDs": ["8", "9", "10"],
+		"department": "Digitalt salg og service"
+	},
+	{
+		"name": "Michael Clark",
+		"attendedEventIDs": ["11", "12", "13"],
+		"department": "Digitalisering og design"
+	},
+	{
+		"name": "Fatima Ahmed",
+		"attendedEventIDs": ["14", "15", "16"],
+		"department": "HR"
+	},
+	{
+		"name": "Robert Lee",
+		"attendedEventIDs": ["1", "2", "3"],
+		"department": "Digitalt salg og service"
+	},
+	{
+		"name": "Jessica White",
+		"attendedEventIDs": ["4", "5", "6"],
+		"department": "Digitalisering og design"
+	},
+	{
+		"name": "Daniel Harris",
+		"attendedEventIDs": ["7", "8", "9"],
+		"department": "HR"
+	},
+	{
+		"name": "Laura Thompson",
+		"attendedEventIDs": ["10", "11", "12"],
+		"department": "Digital salg og service"
+	},
+	{
+		"name": "Kevin Walker",
+		"attendedEventIDs": ["13", "14", "15"],
+		"department": "Digitalisering og design"
+	},
+	{
+		"name": "Sophia Robinson",
+		"attendedEventIDs": ["16", "1", "2"],
+		"department": "HR"
+	},
+	{
+		"name": "Jason Young",
+		"attendedEventIDs": ["3", "4", "5"],
+		"department": "Digitalt salg og service"
+	},
+	{
+		"name": "Isabella King",
+		"attendedEventIDs": ["6", "7", "8"],
+		"department": "Digitalisering og design"
+	},
+	{
+		"name": "Ethan Scott",
+		"attendedEventIDs": ["19", "10", "11"],
+		"department": "HR"
+	},
+	{
+		"attendedEventIDs": ["22", "13", "14"],
+		"department": "Digitalt salg og service"
+	},
+	{
+		"name": "Alexander Adams",
+		"attendedEventIDs": ["15", "16", "1"],
+		"department": "Digitalisering og design"
+	},
+	{
+		"name": "Olivia Baker",
+		"attendedEventIDs": ["17", "3", "4"],
+		"department": "HR"
+	},
+	{
+		"name": "William Gonzalez",
+		"attendedEventIDs": ["20", "6", "7"],
+		"department": "Digitalt salg og service"
+	},
+	{
+		"name": "Ava Perez",
+		"attendedEventIDs": ["8", "9", "10"],
+		"department": "Digitalisering og design"
+	},
+	{
+		"name": "Lucas Andersen",
+		"attendedEventIDs": ["1", "2", "3"],
+		"department": "Digitalisering og design"
+	},
+	{
+		"name": "Mia Kristensen",
+		"attendedEventIDs": ["4", "5", "6"],
+		"department": "HR"
+	},
+	{
+		"name": "Noah Larsen",
+		"attendedEventIDs": ["7", "8", "9"],
+		"department": "Digitalt salg og service"
+	},
+	{
+		"name": "Emma Olsen",
+		"attendedEventIDs": ["10", "11", "12"],
+		"department": "Digitalisering og design"
+	},
+	{
+		"name": "Oliver Pedersen",
+		"attendedEventIDs": ["13", "14", "15"],
+		"department": "HR"
+	},
+	{
+		"name": "Sofie Rasmussen",
+		"attendedEventIDs": ["16", "1", "2"],
+		"department": "Digitalt salg og service"
+	},
+	{
+		"name": "William Sørensen",
+		"attendedEventIDs": ["3", "4", "25"],
+		"department": "Digitalisering og design"
+	},
+	{
+		"name": "Ida Thomsen",
+		"attendedEventIDs": ["6", "7", "8"],
+		"department": "HR"
+	},
+	{
+		"name": "Alexander Hansen",
+		"attendedEventIDs": ["26", "25", "28"],
+		"department": "Digitalt salg og service"
+	},
+	{
+		"name": "Freja Nilsen",
+		"attendedEventIDs": ["26", "25", "27"],
+		"department": "Digitalisering og design"
+	}
+]
